@@ -1,22 +1,18 @@
 package utilitaire;
-
+import java.util.Random;
 public class CodeGenerator {
 	
-	private String code;
+	private static final Random RAND = new Random();
 	
-	public  CodeGenerator(String code) {
-		this.code =code;
-	}
-	
-	public String getcode() {
-		return code;
-	}
-	
-	public static String generatecode(String type) {
-		 
-	  int number =(int)(Math.random()*1000);
+		public static String generateCompteCode() {
+			
+		int number = 10000 + RAND.nextInt(90000); 
 		
-		 return type +"-"+number;
-	}
+		return "CPT-" + number;
+		
+		}
+		
+		
+		}
 
-}
+

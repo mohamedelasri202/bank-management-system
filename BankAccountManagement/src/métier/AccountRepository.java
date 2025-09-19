@@ -1,10 +1,10 @@
 package métier;
 
 
-import utilitaire.AccountNotFoundException;
-import java.util.HashMap;
-import java.util.ArrayList;
-import java.util.List;
+
+ import java.util.HashMap;
+ import java.util.ArrayList;
+ import java.util.List;
 
 public class AccountRepository {
 	
@@ -23,14 +23,12 @@ public class AccountRepository {
 	comptes.put(compte.getCode(), compte);
 	
 	}
-
-
+	
 	public boolean exists(String code) {
 		
 	return comptes.containsKey(code);
 	
 	}
-
 
 	
 	public Compte findByCode(String code) throws AccountNotFoundException {
