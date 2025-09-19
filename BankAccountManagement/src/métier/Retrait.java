@@ -1,7 +1,7 @@
 package métier;
 
 
-public class Retrait extends Operation {
+public class 	 extends Operation {
 	
 private final String destination;
 
