@@ -1,8 +1,6 @@
 package métier;
 
 
-import utilitaire.InsufficientFundsException;
-
 
  public class CompteCourant extends Compte {
 	 private final double decouvert;
