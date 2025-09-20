@@ -44,7 +44,7 @@ L'architecture suit une **séparation en couches** : présentation (UI/menu), m�
 ## 5. Structure du projet  
 📸 **Capture d’écran de la structure réelle du projet ici**  
 
-![Project Structure Placeholder](bank-management-system/docs/{D0612DD7-84BF-4555-B3F4-CA4C7BE7FEE4}.png)
+![Project Structure Placeholder](./bank-management-system/docs/{D0612DD7-84BF-4555-B3F4-CA4C7BE7FEE4}.png)
 
 ---
 
@@ -77,7 +77,7 @@ java -jar bank-app.jar
 ## 8. Diagramme de classes  
 📸 **Capture d’écran du diagramme UML ici**  
 
-![UML Class Diagram Placeholder](bank-management-system/docs/{716E5930-C621-4DF9-BFB8-64D03F238A85}.png)
+![UML Class Diagram Placeholder](./bank-management-system/docs/{716E5930-C621-4DF9-BFB8-64D03F238A85}.png)
 
 ---
 
