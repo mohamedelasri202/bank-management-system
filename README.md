@@ -77,7 +77,7 @@ java -jar bank-app.jar
 ## 8. Diagramme de classes  
 📸 **Capture d’écran du diagramme UML ici**  
 
-![UML Class Diagram Placeholder](./bank-management-system/docs/{716E5930-C621-4DF9-BFB8-64D03F238A85}.png)
+![UML Class Diagram Placeholder](./BankAccountManagement/docs/{716E5930-C621-4DF9-BFB8-64D03F238A85}.png)
 
 ---
 
