@@ -44,7 +44,7 @@ L'architecture suit une **séparation en couches** : présentation (UI/menu), m�
 ## 5. Structure du projet  
 📸 **Capture d’écran de la structure réelle du projet ici**  
 
-![Project Structure Placeholder](./bank-management-system/docs/{D0612DD7-84BF-4555-B3F4-CA4C7BE7FEE4}.png)
+![Project Structure Placeholder](./BankAccountManagement/docs/{D0612DD7-84BF-4555-B3F4-CA4C7BE7FEE4}.png)
 
 ---
 
