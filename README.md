@@ -91,8 +91,8 @@ java -jar bank-app.jar
 
 Exemple :  
 ```
-![Menu principal](bank-management-system/docs/{1D2F21DC-7CFB-4FD0-841F-0011B79F5117}.png)
-![Création compte](bank-management-system/docs/bank-management-system)
+![Console Screenshot](./BankAccountManagement/docs/1D2F21DC-7CFB-4FD0-841F-0011B79F5117.png)
+
 
 ```
 
