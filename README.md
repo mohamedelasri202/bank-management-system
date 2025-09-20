@@ -81,21 +81,3 @@ java -jar bank-app.jar
 
 ---
 
-## 9. Captures d’écran  
-📸 Ajoutez des captures d’écran de l’application en exécution :  
-
-- Menu principal  
-- Création compte  
-- Versement / Retrait / Virement  
-- Liste des opérations  
-
-Exemple :  
-```
-![Console Screenshot](./BankAccountManagement/docs/1D2F21DC-7CFB-4FD0-841F-0011B79F5117.png)
-
-
-```
-
----
-
-
